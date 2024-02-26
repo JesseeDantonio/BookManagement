@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597677122400",
+    "project_id": "book-management-2a2cb",
+    "storage_bucket": "book-management-2a2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597677122400:android:864ca22d8549680731b405",
+        "android_client_info": {
+          "package_name": "com.example.bookmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YKXqff3jFaUhZf5dsksmQOcwT3clkCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

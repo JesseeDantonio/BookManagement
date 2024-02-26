@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookManagement</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="login">Login</string>
+    <string name="icon_account_circle">icon account circle</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Repeat the password</string>
+    <string name="book_rang">Rang: %1$d</string>
+    <string name="book_title">Title: %1$s</string>
+    <string name="book_reservation">Reservation: %.2f</string>
+    <string name="book_author">Author: %1$s</string>
+</resources>
